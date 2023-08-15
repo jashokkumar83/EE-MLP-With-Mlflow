@@ -1,3 +1,4 @@
+import os
 from mlProject.constants import *
 from mlProject.utils.common import read_yaml, create_directories
 from mlProject.entity.config_entity import (DataIngestionConfig,
@@ -5,6 +6,9 @@ from mlProject.entity.config_entity import (DataIngestionConfig,
                                             DataTransformationConfig,
                                             ModelTrainerConfig,
                                             ModelEvaluationConfig)
+os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/jashokkumar83/EE-MLP-With-Mlflow.mlflow"
+os.environ["MLFLOW_TRACKING_USERNAME"]="jashokkumar83"
+os.environ["MLFLOW_TRACKING_PASSWORD"]="8b1917a215cc9efa80eca58bbe7130a569e32939"
 
 class ConfigurationManager:
     def __init__(
@@ -103,7 +107,7 @@ class ConfigurationManager:
             all_params=params,
             metric_file_name = config.metric_file_name,
             target_column = schema.name,
-            mlflow_uri="https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow",
+            mlflow_uri="https://dagshub.com/jashokkumar83/EE-MLP-With-Mlflow.mlflow",
            
         )
 

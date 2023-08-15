@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajayarax/OneDrive%20-%20Intel%20Corporation/JE_demo/mlflow_projects/EE-MLP-With-Mlflow/mlruns/0/3b8e1a6ee62b4efcb216c047b9dbc439/artifacts
+end_time: 1692128599125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b8e1a6ee62b4efcb216c047b9dbc439
+run_name: bright-asp-818
+run_uuid: 3b8e1a6ee62b4efcb216c047b9dbc439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692128595869
+status: 3
+tags: []
+user_id: ajayarax

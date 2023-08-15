@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajayarax/OneDrive%20-%20Intel%20Corporation/JE_demo/mlflow_projects/EE-MLP-With-Mlflow/mlruns/0/f9be1a36b26e48a0b958c9fb48e6fd3f/artifacts
+end_time: 1692129027095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9be1a36b26e48a0b958c9fb48e6fd3f
+run_name: agreeable-stork-518
+run_uuid: f9be1a36b26e48a0b958c9fb48e6fd3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692129024030
+status: 3
+tags: []
+user_id: ajayarax

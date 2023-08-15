@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajayarax/OneDrive%20-%20Intel%20Corporation/JE_demo/mlflow_projects/EE-MLP-With-Mlflow/mlruns/0/6fbbff129ced4f6f8a20a27baa05119e/artifacts
+end_time: 1692102526481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fbbff129ced4f6f8a20a27baa05119e
+run_name: rogue-koi-24
+run_uuid: 6fbbff129ced4f6f8a20a27baa05119e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692102522774
+status: 3
+tags: []
+user_id: ajayarax
